@@ -13,7 +13,7 @@ const questions = [
             'Mount Rushmore', 
             'K2'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -24,7 +24,7 @@ const questions = [
             'Cheetah',
             'Leopard'
         ],
-        answer : '2',
+        answer : '1',
         score : 1
     },
     {
@@ -35,7 +35,7 @@ const questions = [
             'Amazon',
             'Yellow River'
         ],
-        answer : '3',
+        answer : '2',
         score : 1
     },
     {
@@ -46,7 +46,7 @@ const questions = [
             'USA',
             'China'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -57,7 +57,7 @@ const questions = [
             'Siberian Tiger',
             'Kodiak Bear'
         ],
-        answer : '2',
+        answer : '1',
         score : 1
     },
     {
@@ -68,7 +68,7 @@ const questions = [
             'Brazil',
             'Russia'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -79,7 +79,7 @@ const questions = [
             'Antarctic Ocean',
             'Pacific Ocean'
         ],
-        answer : '4',
+        answer : '3',
         score : 1
     },
     {
@@ -90,7 +90,7 @@ const questions = [
             'Vegetable',
             'Nut'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -101,7 +101,7 @@ const questions = [
             'Banyan Tree',
             'Grape Vines'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -112,7 +112,7 @@ const questions = [
             'Banyan Tree',
             'Grape Vines'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -123,7 +123,7 @@ const questions = [
             'Venice',
             'None of the above'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -134,7 +134,7 @@ const questions = [
             'Russia',
             'France'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -145,7 +145,7 @@ const questions = [
             'South America',
             'Africa'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     },
     {
@@ -154,9 +154,9 @@ const questions = [
             'Bamboo',
             'Red Wood Tree',
             'Sandalwood Tree',
-            'Oak'
+            'None of these'
         ],
-        answer : '1',
+        answer : '3',
         score : 1
     },
     {
@@ -167,7 +167,7 @@ const questions = [
             'Dragon Flower',
             'None of the above'
         ],
-        answer : '1',
+        answer : '0',
         score : 1
     }
 ];
